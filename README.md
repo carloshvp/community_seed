@@ -1,10 +1,6 @@
 # Community Seed
 
 ## Code of Conduct
-
-
-# The Contributor Covenant governs the GitHub Campus Experts training
-
 As a community member, you are commiting to drive our community to be accessible and inclusive. You, and other members around you, should expect to conduct this journey safely, and harassment-free. To ensure that everyone is safe, comfortable and feels welcomed, participants in this group abide by the terms of the Code of Conduct, based on the Contributor Covenant, version 2.0 ([https://www.contributor-covenant.org/version/2/0/code_of_conduct/](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)). Full text of the code of conduct as pertains to this repository is [included below](#contributor-covenant-code-of-conduct-version-2.0). You can find steps to [report a violation](#getting-help-with-a-violation-or-incident-the-tldr) at the bottom of this document.
 
 ## Our Pledge
