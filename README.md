@@ -89,6 +89,6 @@ at [https://www.contributor-covenant.org/translations][translations].
 
 # Getting help with a violation or incident, the TLDR:
 
-If for any reason, you feel unsafe, unwelcome or uncomfortable as a result of an interaction within the Campus Experts program, ways to report the incident and get support are listed below
+If for any reason, you feel unsafe, unwelcome or uncomfortable as a result of an interaction within the community, ways to report the incident and get support are listed below
 
 -   Contact Carlos Hernandez-Vaquero at carloshvp@gmail.com
